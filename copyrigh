@@ -1,0 +1,20 @@
+/******************************************************************
+ * rlogind/rlogin
+ *
+ * rlogin client and server for Windows NT.
+ *
+ * Copyright (C) 1994 Nathaniel W. Mishkin.
+ * Portions copyright (C) 1991 Microsoft Corporation.
+ * Portions copyright (C) 1983 Regents of the University of California.
+ * All rights reserved.
+ * 
+ * This program is free in both source and binary form; you can
+ * redistribute it as long as you don't charge for it, or include it
+ * in a product which is distributed for profit.  However, the
+ * copyright holders retain all rights to their respective portions
+ * of the program.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+ */
